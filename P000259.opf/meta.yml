@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །ཤེས་རབ་ལེའུའི་ཚིག་དོན་འགྲེལ་བ་དཔའ་བོ་གཙུག་ལག་ཕྲེང་བའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀ་ནམ།
+  sku: LEK-PHI-048
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Oral Instructions of Pawo Tsuklak Trengwa’s Commentary to the Ninth Chapter
+      of the Bodhicharyavatara
+    bo: ཤེས་རབ་ལེའུའི་ཚིག་དོན་འགྲེལ་བ་དཔའ་བོ་གཙུག་ལག་ཕྲེང་བའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 48
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༤༨
+  author:
+    en: Kanam
+    bo: ཀ་ནམ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-048
+  category:
+    en: Bodhicharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-048.epub
+  description:
+    en: ''
+    bo: ''
