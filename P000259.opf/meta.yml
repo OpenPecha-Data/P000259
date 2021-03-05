@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000259
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཤེས་རབ་ལེའུའི་ཚིག་དོན་འགྲེལ་བ་དཔའ་བོ་གཙུག་ལག་ཕྲེང་བའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀ་ནམ།
-  sku: LEK-PHI-048
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: LEK-PHI-048
 web_metadata:
   title:
     en: The Oral Instructions of Pawo Tsuklak Trengwa’s Commentary to the Ninth Chapter
